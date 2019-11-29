@@ -4,7 +4,7 @@ package cursor;
 // of each operation into console (System.out.println())
 
 public class Main {
-   public static void main(String [] args){
+   public static void main(String [] args) {
         byte byte1 = 100;
         byte byte2 = 4;
         short short1 = -12894;
